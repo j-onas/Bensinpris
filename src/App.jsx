@@ -67,7 +67,7 @@ function App() {
 
   return (
     <Wrapper>
-      <h1>Räknabensinprisperkmavnågonoklaranledningingennågonsinkommerförståsigpåeftersomhjärncellernaspringerbaklängesiennedförsbackesamtidigtsompulkanåkteåtsidan</h1>
+      <h1>Vad kostar?</h1>
       <Inner>
         <div>
           <label htmlFor="liter-price">Literpris</label>
